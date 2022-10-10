@@ -9,3 +9,12 @@
 	text-transform:uppercase;
 	overflow:hidden;
 }
+a:hover{
+	background:#aac5c9;
+}
+a:focus:{
+	border:solid 1px aqua;
+}
+a:active{
+	background:white;
+}
