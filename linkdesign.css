@@ -1,0 +1,11 @@
+
+	a{
+	display: block;
+	width: 20%;
+	background: #00BCD4;
+	padding:10px;
+	margin:10px;
+	text-align:center;
+	text-transform:uppercase;
+	overflow:hidden;
+}
