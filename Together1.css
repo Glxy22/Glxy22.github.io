@@ -2,16 +2,27 @@ h1{
 	background:#fffde8;
 font-size: 250%;
 font-variant: small-caps;
+ text-align: center;
  }
  header{
  	background: #fffde8;
- 	text-align: center;
+ 	
  	color: #4c8492;
  	font-family: "Time New Roman", serif;
+     padding:10px;
+ 
  }
- nav{
+ nav a{
  	font-size: 150%;
+  display:inline-block;
+  width:10%;
+  border:solid 2px #607D8B;
+  text-align:center;
+  
  }
+a{
+ 
+}
  h2{
  	color: #f09c67;
  	background: ##fbf9dd;
@@ -23,6 +34,16 @@ font-variant: small-caps;
  summary{
  	font-style: normal;
  }
+  section{
+ width:30%;
+  float:left;
+ display:inline-block;
+ margin:5px;
+}
 footer{
-	background: #fffde8;
+    background: #fffde8;
+clear:both;
+}
+img{
+    width: 8%;
 }
