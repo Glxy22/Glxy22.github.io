@@ -17,4 +17,5 @@ a:focus:{
 }
 a:active{
 	background:white;
+	color:#f4a74c;
 }
