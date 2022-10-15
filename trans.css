@@ -1,0 +1,15 @@
+.ducks{
+	display: inline-block;
+	width: 10%;
+	height: 20%;
+	padding: 10px;
+	margin: 10px;
+	background-color: yellowgreen;
+	transition: width 1s;
+	text-align: center;
+
+}
+.ducks:hover{
+	width: 20%;
+	color: yellow;
+}
